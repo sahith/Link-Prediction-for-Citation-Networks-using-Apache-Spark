@@ -3,7 +3,7 @@ Link Prediction is about predicting the future connections in a graph. In this p
 
 
 ## Instructions to compile and run the code
-1. Create AWS EMR cluster with spark selected in advanced options. More at [AWS EMR Instructions](https://github.com/sahith/Link-Prediction-for-Citation-Networks-using-Apache-Spark)
+1. Create AWS EMR cluster with spark selected in advanced options. More at [AWS EMR Instructions](https://awsemrinstructions.s3-us-west-2.amazonaws.com/GettingStartedAWS(1)(1).pdf)
 2. Upload the jar file of this project in s3 bucket.
 3. Add a step with the following configurations<br/> 
 	**Step Type**: spark application<br/>
