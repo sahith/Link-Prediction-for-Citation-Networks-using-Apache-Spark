@@ -1,6 +1,7 @@
 # Link-Prediction-for-Citation-Networks-using-Apache-Spark
 Link Prediction is about predicting the future connections in a graph. In this project, Link Prediction is about predicting whether two authors will be collaborating for their future paper or not given the graph of authors who collaborated for atleast one paper together.
 
+Implemented this project as a part of **Big Data Management and Analytics course (CS 6350.002)** at **The University of Texas at Dallas**.
 
 ## Instructions to compile and run the code
 1. Create AWS EMR cluster with spark selected in advanced options. More at [AWS EMR Instructions](https://awsemrinstructions.s3-us-west-2.amazonaws.com/GettingStartedAWS(1)(1).pdf)
