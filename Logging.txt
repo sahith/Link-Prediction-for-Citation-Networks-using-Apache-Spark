@@ -1,0 +1,13 @@
+Total number of edges in the DBLP dataset 2099732
+
+Total number of people/nodes are 317080
+
+Total number of links(Hidden and Missing) are 1953448
+
+train_split is 80.0 and test_split is 20.0
+
+Training dataset length 1562855
+
+Testing dataset length 390593
+
+
