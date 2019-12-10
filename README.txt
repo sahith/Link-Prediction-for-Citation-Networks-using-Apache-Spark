@@ -1,8 +1,8 @@
 Included scala file for project code and jar file inorder to run on AWS EMR Cluster.
 
 Instructions to compile and run the code
-1. Create AWS EMR cluster with spark selected in advanced options.
-2. Upload the jar file of this project submitted in s3 bucket.
+1. Create AWS EMR cluster with spark selected in advanced options. More at [AWS EMR Instructions](https://github.com/sahith/Link-Prediction-for-Citation-Networks-using-Apache-Spark)
+2. Upload the jar file of this project in s3 bucket.
 3. Add a step with the following configurations
 	step type: spark application
 	Name: Link Prediction
@@ -31,5 +31,5 @@ Instructions to compile and run the code
 	Predictions of the supervised algorithm at */Predictions
 
 
-Dataset Link
-https://sxa180065.s3-us-west-2.amazonaws.com/LinkPrediction1/com-dblp.ungraph.txt
+
+[Citation Dataset Link](https://snap.stanford.edu/data/com-DBLP.html)
